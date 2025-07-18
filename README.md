@@ -1,7 +1,7 @@
 # Pineapple
 A 60% keyboard
 | Item               | Cost    |
-|--------------------|---------|
+
 | Rp2040             | $2.88   |
 https://www.walmart.com/ip/Raspberry-Pi-RP2040-Pico-Board-Dual-Core-Development-Board-Micro-USB-Type-C-HOT-A2A6/10514462878?wmlspartner=imp_27795&selectedSellerId=101098551&selectedOfferId=67E4F348DB603E31B78CE5F06A02C382&conditionGroupCode=1&clickid=V1cyXI12IxycUMKynHxsk2o8UksS9dUNMzuNQg0&irgwc=1&sourceid=imp_V1cyXI12IxycUMKynHxsk2o8UksS9dUNMzuNQg0&veh=aff&affiliates_ad_id=612734&campaign_id=9383&sharedid=6080654               |
                      |
