@@ -7,7 +7,7 @@ https://www.walmart.com/ip/Raspberry-Pi-RP2040-Pico-Board-Dual-Core-Development-
 
 
 
-                     |
+            
 | Switches           | $46.28  |
 https://www.aliexpress.us/item/3256804049630074.html?aff_fsk=_Dk5AJwn&src=connexityUS&aff_platform=aff_feeds&aff_short_key=_Dk5AJwn&dp=17527996258600653908615341133008005&cn=316730&cv=10c7b93085dcea51dede51fce3db2eee&gatewayAdapt=glo2usa4itemAdapt
 
@@ -24,13 +24,13 @@ https://www.aliexpress.us/item/3256804049630074.html?aff_fsk=_Dk5AJwn&src=connex
 
 
 
-| Fasteners          | $3.66   |
+| Fasteners          | $14 |
+https://pay.ebay.com/rgxo?action=view&sessionid=1716123654
 
 
+| Diodes             | $0.99  |
 
-| Diodes             | $1.99   |
-
-
+https://www.aliexpress.us/p/trade/confirm.html?availableProductShopcartIds=81023549395923&aeOrderFrom=main_shopcart&intentionalPayMethod=&curPageLogUid=1752878026666_TJhd6a&spm=a2g0o.cart.0.0
 
 | Keycaps            | $16.99  |
 
