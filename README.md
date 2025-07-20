@@ -19,7 +19,7 @@ https://www.aliexpress.us/item/3256804049630074.html?aff_fsk=_Dk5AJwn&src=connex
 
 
 | Stabilizers        | $9.50   |
-2x 2.00u https://www.walmart.com/ip/Gold-Plated-Plate-Mounted-Stabilizer-for-Custom-Mechanical-Keyboard-2U-6-25U-1-7-White-Pink/17191108524?wmlspartner=imp_27795&selectedSellerId=102816814&selectedOfferId=A9C75EF158DC36C1AE21988A1FB93417&conditionGroupCode=1&clickid=V1cyXI12IxycUMKynHxsk2o8UksS-dRlMzuNQg0&irgwc=1&sourceid=imp_V1cyXI12IxycUMKynHxsk2o8UksS-dRlMzuNQg0&veh=aff&affiliates_ad_id=612734&campaign_id=9383&sharedid=6080654
+https://www.walmart.com/ip/Gold-Plated-Plate-Mounted-Stabilizer-for-Custom-Mechanical-Keyboard-2U-6-25U-1-7-White-Pink/17191108524?wmlspartner=imp_27795&selectedSellerId=102816814&selectedOfferId=A9C75EF158DC36C1AE21988A1FB93417&conditionGroupCode=1&clickid=V1cyXI12IxycUMKynHxsk2o8UksS-dRlMzuNQg0&irgwc=1&sourceid=imp_V1cyXI12IxycUMKynHxsk2o8UksS-dRlMzuNQg0&veh=aff&affiliates_ad_id=612734&campaign_id=9383&sharedid=6080654
 
 
 
