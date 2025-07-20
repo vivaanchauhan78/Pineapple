@@ -28,11 +28,9 @@ https://pay.ebay.com/rgxo?action=view&sessionid=1716123654
 
 
 | Diodes             | $0.99  |
-
 https://www.aliexpress.us/p/trade/confirm.html?availableProductShopcartIds=81023549395923&aeOrderFrom=main_shopcart&intentionalPayMethod=&curPageLogUid=1752878026666_TJhd6a&spm=a2g0o.cart.0.0
 
-| Keycaps            | $16.99  |
+| Keycaps            | $22.99 |
+https://www.amazon.com/dagaladoo-keycaps-Topographic-Percent-Keyboard/dp/B0C2YLGY79?th=1
 
-
-
-| **Total**          | **$148.65** |
+| **Total**          | **$156.89** |
