@@ -2,9 +2,10 @@
 A not-so-small 60% keyboard that I made!
 
 I have a mouse on my other setup up but I didn't have a keyboard, so I thought of making one!
+# ALL OF THIS IS BEFORE TAX
 | Item         | Cost    | Link |
 |--------------|---------|------|
-| Rp2040       | $2.88   | [Buy on Walmart](https://www.walmart.com/ip/Raspberry-Pi-RP2040-Pico-Board-Dual-Core-Development-Board-Micro-USB-Type-C-HOT-A2A6/10514462878) |
+| Rp2040       | $8.74   | [Buy on Walmart](https://www.walmart.com/ip/Raspberry-Pi-RP2040-Pico-Board-Dual-Core-Development-Board-Micro-USB-Type-C-HOT-A2A6/10514462878) |
 | Switches     | $46.28  | [Buy on AliExpress](https://www.aliexpress.us/item/3256804049630074.html) |
 | PCB          | $60.25  | [Buy on Pcbway]
 | Stabilizers  | $9.50   | [Buy on Walmart](https://www.walmart.com/ip/Gold-Plated-Plate-Mounted-Stabilizer-for-Custom-Mechanical-Keyboard-2U-6-25U-1-7-White-Pink/17191108524) |
