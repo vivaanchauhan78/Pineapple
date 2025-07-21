@@ -2,7 +2,8 @@
 --July 1---
 1 hour
 I opened up Kicad and started a new project! I completed the schematic in about 1 hour :D and got started on the PCB itself!.
-
+<img width="1380" height="872" alt="Screenshot 2025-06-09 115305" src="https://github.com/user-attachments/assets/c900f98a-9a58-4d22-abe8-3861e464093b" />
+<img width="1832" height="672" alt="Screenshot 2025-06-19 044759" src="https://github.com/user-attachments/assets/64f8694c-3e6e-413e-a284-9f90af143892" />
 --July 2--
 2 hours
 I completed the PCB!
@@ -18,6 +19,7 @@ bro BRO BRO WHAT IS THIS WHY DOES oh nvm that was my mad I forgot to set the dim
 -- July 5 --
 2.5 hours
 Finally done with the case, CAN FINALLY START ON THE FINAL STEP, THE UPPER PLATE!
+
 
 -- July 6--
 1.5 hour
@@ -39,5 +41,7 @@ Big gap about a week
 4 hours
 -- July 19-21 --
 Ok, time to lock in. I have worked and finished the case and the upper plate, fixed my readme, and submitted my project! :-D 
+
+<img width="1292" height="765" alt="Screenshot 2025-07-21 161620" src="https://github.com/user-attachments/assets/bca2ce62-b167-4a9e-a396-c151086b307b" />
 
 Total hours worked: 22.5 hours worked in total!
