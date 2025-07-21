@@ -2,8 +2,6 @@
 A not-so-small 60% keyboard that I made!
 
 I have a mouse on my other setup up but I didn't have a keyboard, so I thought of making one!
-## 💻 Component Breakdown
-
 | Item         | Cost    | Link |
 |--------------|---------|------|
 | Rp2040       | $2.88   | [Buy on Walmart](https://www.walmart.com/ip/Raspberry-Pi-RP2040-Pico-Board-Dual-Core-Development-Board-Micro-USB-Type-C-HOT-A2A6/10514462878) |
