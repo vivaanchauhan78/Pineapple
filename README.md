@@ -1,5 +1,5 @@
 # Pineapple
-A 60% keyboard
+A not-so-small 60% keyboard that I made!
 | Item               | Cost    |
 
 | Rp2040             | $2.88   |
