@@ -1,4 +1,4 @@
-
+Total hours worked: 22.5!
 --July 1---
 1 hour
 I opened up Kicad and started a new project! I completed the schematic in about 1 hour :D and got started on the PCB itself!.
@@ -44,4 +44,4 @@ Ok, time to lock in. I have worked and finished the case and the upper plate, fi
 
 <img width="1292" height="765" alt="Screenshot 2025-07-21 161620" src="https://github.com/user-attachments/assets/bca2ce62-b167-4a9e-a396-c151086b307b" />
 
-Total hours worked: 22.5 hours worked in total!
+
