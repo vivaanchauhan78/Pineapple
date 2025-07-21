@@ -1,5 +1,7 @@
 # Pineapple
 A not-so-small 60% keyboard that I made!
+
+I have a mouse on my other setup up but I didn't have a keyboard, so I thought of making one!
 | Item               | Cost    |
 
 | Rp2040             | $2.88   |
