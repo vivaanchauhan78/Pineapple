@@ -12,7 +12,7 @@ I have a mouse on my other setup up but I didn't have a keyboard, so I thought o
 | Fasteners    | $14.00  | [Buy on eBay](https://pay.ebay.com/rgxo?action=view&sessionid=1716123654) |
 | Diodes       | $0.99   | [Buy on AliExpress](https://www.aliexpress.us/p/trade/confirm.html?availableProductShopcartIds=81023549395923) |
 | Keycaps      | $17.50  | [Buy on Amazon](https://www.amazon.com/JSJT-Keycaps-Keycaps-Non-Backlit-Mechanical-Multi-Color/dp/B0BCFCQG2Z/ref=asc_df_B0BCFCQG2Z?tag=bingshoppinga-20&linkCode=df0&hvadid=80333258220081&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77507&hvtargid=pla-4583932723308317&msclkid=375f23a88c8a1849a15e4bd658e5279e&th=1) |
-| **Total**    | **$156.89** | 
+| **Total**    | **$210.26** | 
 
 
 
