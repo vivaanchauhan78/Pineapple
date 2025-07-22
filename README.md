@@ -5,9 +5,9 @@ I have a mouse on my other setup up but I didn't have a keyboard, so I thought o
 # ALL OF THIS IS BEFORE TAX
 | Item         | Cost    | Link |
 |--------------|---------|------|
-| Rp2040       | $8.74   | [Buy on Walmart](https://www.walmart.com/ip/Raspberry-Pi-RP2040-Pico-Board-Dual-Core-Development-Board-Micro-USB-Type-C-HOT-A2A6/10514462878) |
+| Rp2040       | $0.99   | [Buy on Walmart](https://www.aliexpress.us/item/3256806217238860.html?spm=a2g0o.cart.0.0.2d6c38daTqjGkV&mp=1&pdp_npi=5%40dis%21USD%21USD%203.46%21USD%200.99%21%21USD%200.99%21%21%21%402103205217531554636108924eb90a%2112000037042067691%21ct%21US%216426456965%21%211%210&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&_gl=1*w7bknt*_gcl_au*MTQ2NDQ1NzgyLjE3NTI4NzgwODk.*_ga*MTk1MzE5NzUxMi4xNzUzMDQ5NjA5*_ga_VED1YSGNC7*czE3NTMxNTQ2MDQkbzQkZzEkdDE3NTMxNTU0NjMkajMzJGwwJGgw&gatewayAdapt=glo2usa) |
 | Switches     | $52.85  | [Buy on AliExpress](https://www.aliexpress.us/item/3256804049630074.html) |
-| PCB          | $106.68 | [Buy on Pcbway](https://member.pcbway.com/Order/OrderGroupConfirm/)
+| PCB          | $30.44  | [Buy on Pcbway](https://member.pcbway.com/Order/OrderGroupConfirm/)
 | Stabilizers  | $9.50   | [Buy on Walmart](https://www.walmart.com/ip/Gold-Plated-Plate-Mounted-Stabilizer-for-Custom-Mechanical-Keyboard-2U-6-25U-1-7-White-Pink/17191108524) |
 | Fasteners    | $14.00  | [Buy on eBay](https://pay.ebay.com/rgxo?action=view&sessionid=1716123654) |
 | Diodes       | $0.99   | [Buy on AliExpress](https://www.aliexpress.us/p/trade/confirm.html?availableProductShopcartIds=81023549395923) |
