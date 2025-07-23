@@ -11,7 +11,7 @@ I have a mouse on my other setup up but I didn't have a keyboard, so I thought o
 | Stabilizers  | $4.11   | [Buy on aliexpress](https://www.aliexpress.us/item/3256807348740208.html?spm=a2g0o.productlist.main.4.7c5d4a6eayveZj&aem_p4p_detail=20250721204006133116881527110000082721&algo_pvid=e2a4ce2c-4b11-4272-be36-e702e015e351&algo_exp_id=e2a4ce2c-4b11-4272-be36-e702e015e351-3&pdp_ext_f=%7B%22order%22%3A%22365%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%214.11%210.99%21%21%2129.35%217.10%21%402103241117531556059128212efb0c%2112000041195815297%21sea%21US%216426456965%21ABX&curPageLogUid=ajEZrvKqLNbd&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=20250721204006133116881527110000082721_1) |
 | Fasteners    | $14.00  | [Buy on eBay](https://pay.ebay.com/rgxo?action=view&sessionid=1716123654) |
 | Diodes       | $1.64   | [Buy on AliExpress](https://www.aliexpress.us/p/trade/confirm.html?availableProductShopcartIds=81023549395923) |
-| Keycaps      | $17.50  | [Buy on Amazon](https://www.amazon.com/JSJT-Keycaps-Keycaps-Non-Backlit-Mechanical-Multi-Color/dp/B0BCFCQG2Z/ref=asc_df_B0BCFCQG2Z?tag=bingshoppinga-20&linkCode=df0&hvadid=80333258220081&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77507&hvtargid=pla-4583932723308317&msclkid=375f23a88c8a1849a15e4bd658e5279e&th=1) |
+| Keycaps      | $26.51  | [Buy on Amazon](https://www.amazon.com/JSJT-Keycaps-Keycaps-Non-Backlit-Mechanical-Multi-Color/dp/B0BCFCQG2Z/ref=asc_df_B0BCFCQG2Z?tag=bingshoppinga-20&linkCode=df0&hvadid=80333258220081&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77507&hvtargid=pla-4583932723308317&msclkid=375f23a88c8a1849a15e4bd658e5279e&th=1) |
 | **Total**    | **$90.8** | 
 
 
